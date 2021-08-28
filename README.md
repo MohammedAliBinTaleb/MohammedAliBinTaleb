@@ -1,11 +1,11 @@
-<div style="text-align:center">
-_Hello My Name is Mohammed Bin Ali
-from Madina_
-</div>
+\_Hello My Name is Mohammed Bin Ali
+from Madina
 
-<div style="color:#167286;font-size:24px;font-weight:bold;text-align:center">I am MERN Stack & React Native Developer 😊</div>
+-
 
-[<div style="color:#167286;text-align:center;">🔗click here if you want to see my portfolio here for more details</div>](https://mohammedalicode.vercel.app/)
+## I am MERN Stack & React Native Developer & UI /UX Designer
+
+[🔗click here if you want to see my portfolio here for more details](https://mohammedalicode.vercel.app/)
 
 <hr/>
 
