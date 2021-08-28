@@ -1,20 +1,27 @@
+<div style="text-align:center">
 _Hello My Name is Mohammed Bin Ali
 from Madina_
+</div>
 
-<span style="color:#167286;font-size:24px;font-weight:bold">I am MERN Stack + React Native Developer</span>
+<div style="color:#167286;font-size:24px;font-weight:bold;text-align:center">I am MERN Stack & React Native Developer 😊</div>
+
+[<div style="color:#167286;text-align:center;">🔗click here if you want to see my portfolio here for more details</div>](https://mohammedalicode.vercel.app/)
+
+<hr/>
+
+<span style="color:#167286;font-size:24px;font-weight:bold">My Activity in github</span>
 
 ![](https://komarev.com/ghpvc/?username=MohammedAliBinTaleb&color=blue)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedAliBinTaleb&count_private=true&bg_color=90DEG,167286,00FBFD&title_color=fff&text_color=ddd)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedAliBinTaleb&count_private=true&title_color=167286&text_color=000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAliBinTaleb&layout=compact)](https://github.com/MohammedAliBinTaleb/github-readme-stats)
+
+,167286,00FBFD
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAliBinTaleb)](https://github.com/MohammedAliBinTaleb/github-readme-stats)
 
-**نشاطي خلال الاسبوع wakatime**
-
 [![MohammedAliBinTaleb wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohammedalibintaleb)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Skills:
+<span style="color:#167286;font-size:24px;font-weight:bold">My Skills:</span>
 
 <hr/>
 
