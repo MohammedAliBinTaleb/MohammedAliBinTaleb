@@ -1,7 +1,5 @@
-\_Hello My Name is Mohammed Bin Ali
-from Madina
-
--
+**Hello My Name is Mohammed Bin Ali
+from Madina**
 
 ## I am MERN Stack & React Native Developer & UI /UX Designer
 
@@ -13,13 +11,10 @@ from Madina
 
 ![](https://komarev.com/ghpvc/?username=MohammedAliBinTaleb&color=blue)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedAliBinTaleb&count_private=true&title_color=167286&text_color=000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAliBinTaleb&layout=compact)](https://github.com/MohammedAliBinTaleb/github-readme-stats)
-
-,167286,00FBFD
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAliBinTaleb)](https://github.com/MohammedAliBinTaleb/github-readme-stats)
 
 [![MohammedAliBinTaleb wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohammedalibintaleb)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAliBinTaleb&layout=compact)](https://github.com/MohammedAliBinTaleb/github-readme-stats)
 
 <span style="color:#167286;font-size:24px;font-weight:bold">My Skills:</span>
 
