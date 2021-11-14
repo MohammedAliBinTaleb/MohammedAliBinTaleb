@@ -1,16 +1,14 @@
-**Hello My Name is Mohammed Bin Ali
-from Madina**
+# 📑 Fact About Me
 
-## I am MERN Stack & React Native Developer & UI /UX Designer
-
-[🔗click here if you want to see my portfolio here for more details](https://mohammedalicode.vercel.app/)
-
-<hr/>
-
-<span style="color:#167286;font-size:24px;font-weight:bold">My Activity in github</span>
+- ## 🔥 Full Stack developer using (NodeJS.,ReactJS,Tailwind.css,Next.js,Mongodb).
+- ## ⚛ Mobile Developer Using React Native & Expo
+- ## 📚 3 years of experience of building software that can be scalable and Maintenance Application
+- ## 🎨🖌 I have ability to make your UX / UX looks awesome
+- ## 🌐 you can check my website [here](https://mohammedalicode.vercel.app/)
 
 ![](https://komarev.com/ghpvc/?username=MohammedAliBinTaleb&color=blue)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedAliBinTaleb&count_private=true&title_color=167286&text_color=000)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedAliBinTaleb&count_private=true&title_color=167286&text_color=000)&nbsp;
 
 [![MohammedAliBinTaleb wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohammedalibintaleb)](https://github.com/anuraghazra/github-readme-stats)
 
