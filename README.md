@@ -1,10 +1,10 @@
 # 📑 Fact About Me
 
-- ## 🔥 Full Stack developer using (NodeJS.,ReactJS,Tailwind.css,Next.js,Mongodb).
-- ## ⚛ Mobile Developer Using React Native & Expo
-- ## 📚 3 years of experience of building software that can be scalable and Maintenance Application
-- ## 🎨🖌 I have ability to make your UX / UX looks awesome
-- ## 🌐 you can check my website [here](https://mohammedalicode.vercel.app/)
+- 🔥 Full Stack developer using (NodeJS.,ReactJS,Tailwind.css,Next.js,Mongodb).
+- ⚛ Mobile Developer Using React Native & Expo
+- 📚 3 years of experience of building software that can be scalable and Maintenance Application
+- 🎨🖌 I have ability to make your UX / UX looks awesome
+- 🌐 you can check my website [here](https://mohammedalicode.vercel.app/)
 
 ![](https://komarev.com/ghpvc/?username=MohammedAliBinTaleb&color=blue)
 
